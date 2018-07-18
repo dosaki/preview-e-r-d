@@ -1,0 +1,18 @@
+{
+  "name": "preview-e-r-d",
+  "main": "./lib/preview-e-r-d",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "preview-e-r-d:toggle"
+  },
+  "repository": "https://github.com/dosaki/preview-e-r-d",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "t2erd": "^0.1.1"
+  }
+}
