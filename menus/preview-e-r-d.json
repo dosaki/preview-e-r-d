@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle preview-e-r-d",
+        "label": "Toggle ERD Preview",
         "command": "preview-e-r-d:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "preview-e-r-d",
+          "label": "ERD Preview",
           "submenu": [
             {
               "label": "Toggle",
