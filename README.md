@@ -7,6 +7,7 @@ The preview is updated every time you save your file.
 ## `erd` Syntax
 For syntax information, see the [t2erd syntax section](https://github.com/dosaki/t2erd/blob/master/README.md#syntax).
 
+*You can use the [syntax highlighter](https://atom.io/packages/language-erd) too!*
 
 ## About
 This package uses [t2erd](https://github.com/dosaki/t2erd) to generate the image.
