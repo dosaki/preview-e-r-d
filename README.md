@@ -1,5 +1,6 @@
 # Preview ERD
 Preview your `*.erd` files on a side panel with `CTRL+ALT+E`.
+The preview is updated every time you save your file.
 
 ![Preview ERD in Action](https://raw.githubusercontent.com/dosaki/preview-e-r-d/master/erd-preview-in-action.gif)
 
