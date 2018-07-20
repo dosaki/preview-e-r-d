@@ -1,7 +1,7 @@
 {
   "name": "preview-e-r-d",
   "main": "./lib/preview-e-r-d",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "description": "Preview your *.erd files on a side panel with CTRL+ALT+E",
   "keywords": [],
   "activationCommands": {
